@@ -13,3 +13,9 @@ Successfully installed docker. Screenshot of printing the version I have:<br />
 <img
   src="screenshots\a2.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px"><br />
+
+## Activity 3
+Screenshot of the app running locally:<br />
+<img
+  src="screenshots\a3.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"><br />
